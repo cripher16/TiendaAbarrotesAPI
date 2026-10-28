@@ -1,0 +1,20 @@
+# Entorno virtual de Python
+.venv/
+.venv314/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuracion privada
+.env
+.env.*
+
+# Permitir archivo de ejemplo
+!.env.example
+
+# Archivos del editor
+.vscode/
+
+# Archivos temporales
+*.log
